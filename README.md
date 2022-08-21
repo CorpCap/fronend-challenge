@@ -32,10 +32,11 @@ No cargue su solución en repositorios públicos en GitHub, BitBucket, etc.
 - Habilidades para maquetar
 
 #### Tarjetas Acceptadas
-- American Express ![amex](https://github.com/aaronfagan/svg-credit-card-payment-icons/raw/main/logo/amex.svg)
-- Visa ![visa](https://github.com/aaronfagan/svg-credit-card-payment-icons/raw/main/logo/visa.svg)
-- Mastercard ![master](https://github.com/aaronfagan/svg-credit-card-payment-icons/raw/main/logo/mastercard.svg)
-- Diners ![diners](https://github.com/aaronfagan/svg-credit-card-payment-icons/raw/main/logo/diners.svg)
+- American Express <img src="https://github.com/aaronfagan/svg-credit-card-payment-icons/raw/main/logo/amex.svg" alt="drawing" width="50"/>
+- Visa <img src="https://github.com/aaronfagan/svg-credit-card-payment-icons/raw/main/logo/visa.svg" alt="drawing" width="50"/>
+- Mastercard <img src="https://github.com/aaronfagan/svg-credit-card-payment-icons/raw/main/logo/mastercard.svg" alt="drawing" width="50"/>
+- Diners <img src="https://github.com/aaronfagan/svg-credit-card-payment-icons/raw/main/logo/diners.svg" alt="drawing" width="50"/>
+
 
 #### Elementos
 - [Figma](https://www.figma.com/file/6BTEAzFqDi4KTVLHrFN6Ji/Checkout-Page-(Community)?node-id=2%3A2)
