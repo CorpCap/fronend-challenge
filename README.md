@@ -29,13 +29,13 @@ No cargue su solución en repositorios públicos en GitHub, BitBucket, etc.
 - Manejo correcto de valores decimales
 - Manejo de errores.
 - Separación de intereses
+- Habilidades para maquetar
 
 #### Tarjetas Acceptadas
-- American Express
-- Visa
-- Mastercard
-- Cabal
-- Diners
+- American Express ![amex](https://github.com/aaronfagan/svg-credit-card-payment-icons/raw/main/logo/amex.svg)
+- Visa ![visa](https://github.com/aaronfagan/svg-credit-card-payment-icons/raw/main/logo/visa.svg)
+- Mastercard ![master](https://github.com/aaronfagan/svg-credit-card-payment-icons/raw/main/logo/mastercard.svg)
+- Diners ![diners](https://github.com/aaronfagan/svg-credit-card-payment-icons/raw/main/logo/diners.svg)
 
 #### Elementos
 - [Figma](https://www.figma.com/file/6BTEAzFqDi4KTVLHrFN6Ji/Checkout-Page-(Community)?node-id=2%3A2)
